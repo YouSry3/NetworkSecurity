@@ -22,13 +22,13 @@ The Caesar Cipher is one of the simplest encryption techniques, shifting letters
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/mohamedsherif301/NetworkSecurity.git
    ```
 
 2. Navigate to the first task:
 
    ```bash
-   cd CaesarCipher
+   cd NetworkSecurity
    ```
 
 3. Run the encryption/decryption script.
