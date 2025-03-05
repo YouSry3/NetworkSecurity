@@ -1,29 +1,34 @@
-🔐 Cryptography Repository
+# 🔐 Cryptography Repository
 
 Welcome to the Cryptography repository! This project explores various cryptographic techniques, including classical and modern encryption methods. Whether you're a beginner or an experienced developer, this repo serves as a hands-on learning resource for implementing secure communication techniques.
-🚀 First Task: Caesar Cipher
+
+## 🚀 First Task: Caesar Cipher
 
 The Caesar Cipher is one of the simplest encryption techniques, shifting letters in the alphabet by a fixed number of places. It was historically used by Julius Caesar for securing messages.
 
-    Encryption: Shifts each letter forward by a given key.
-    Decryption: Shifts each letter backward by the same key.
-    Implementation: You can find the Caesar Cipher implementation inside the repository.
+- **Encryption:** Shifts each letter forward by a given key.
+- **Decryption:** Shifts each letter backward by the same key.
+- **Implementation:** You can find the Caesar Cipher implementation inside the repository.
 
-📌 Upcoming Tasks:
+## 📌 Upcoming Tasks:
 
-    Vigenère Cipher
-    RSA Encryption
-    Hashing Algorithms (SHA, MD5)
-    Symmetric & Asymmetric Cryptography
+- Vigenère Cipher
+- RSA Encryption
+- Hashing Algorithms (SHA, MD5)
+- Symmetric & Asymmetric Cryptography
 
-🛠️ How to Use:
+## 🛠️ How to Use:
 
-    Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   ```
 
-Navigate to the first task:
+2. Navigate to the first task:
 
-cd CaesarCipher
+   ```bash
+   cd CaesarCipher
+   ```
 
-Run the encryption/decryption script.
+3. Run the encryption/decryption script.
